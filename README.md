@@ -2,9 +2,7 @@
 
 
 
-You can find more about me at:
 
--  [http://www.okudera.site](http://okudera.site/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taki-Ta&line_height=24&show_icons=true&theme=buefy&count_private=true&hide_progress=true&hide=issues)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taki-Ta&theme=buefy&layout=compact)
